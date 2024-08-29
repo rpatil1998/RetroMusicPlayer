@@ -13,7 +13,7 @@ Material Design music player for Android music lovers
 - Pro features available for free
 - Fully offline (INTERNET permission removed)
 - Bug fixes
-- Minor differences in UI and UX
+- Minor differences in UI-
 
 ## 📱 Screenshots
 ### App Themes
