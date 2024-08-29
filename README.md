@@ -13,13 +13,13 @@ Material Design music player for Android music lovers
 - Pro features available for free
 - Fully offline (INTERNET permission removed)
 - Bug fixes
-- Minor differences in UI-
+- Minor differences in UI 
 
 ## 📱 Screenshots
 ### App Themes
 | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" width="200"/> |
 |:---:|:---:|:---:|
-|Clearly blue| Kinda dark | Just black|
+|Clearly Yellow| Kinda dark | Just black|
 
 ### Player screen
 | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="200"/>| <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" width="200"/>| <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg" width="200"/>| <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/7.jpg" width="200"/>| <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/8.jpg" width="200"/>|
