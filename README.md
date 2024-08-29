@@ -74,7 +74,6 @@ favorite songs. No other music player has this feature.
 -  Home screen widgets
 -  Lock screen playback controls
 -  Lyrics screen (download and sync with music)
--  Sleep timer
 -  Easy drag to sort playlist & play queue
 -  Tag editor
 -  Create, edit and import playlists
