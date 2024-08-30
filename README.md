@@ -85,7 +85,7 @@ favorite songs. No other music player has this feature.
 -  Smart Auto Playlists - Recently played, most played and history
 -  Build your playlist on the go
 
-We are trying our best to bring you the best user experience. The app is regularly being updated for bug fixes and new features.
+We are trying the our best to bring you the best user experience. The app is regularly being updated for bug fixes and new features.
 
 ## 🗂️ License
 
